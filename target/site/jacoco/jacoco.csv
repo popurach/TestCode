@@ -1,0 +1,12 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+testCode,com.springboot.testcode.data.entity,Product,241,57,54,0,3,9,32,14,5,14
+testCode,com.springboot.testcode.data.entity,Product.ProductBuilder,63,0,0,0,1,0,9,0,9,0
+testCode,com.springboot.testcode,TestCodeApplication,5,3,0,0,2,1,1,1,1,1
+testCode,com.springboot.testcode.config,SwaggerConfiguration,0,29,0,0,0,12,0,3,0,3
+testCode,com.springboot.testcode.data.dto,ChangeProductNameDto,26,0,0,0,12,0,6,0,6,0
+testCode,com.springboot.testcode.data.dto,ProductResponseDto,0,46,0,0,0,19,0,10,0,10
+testCode,com.springboot.testcode.data.dto,ProductDto.ProductDtoBuilder,8,28,0,0,0,1,1,5,1,5
+testCode,com.springboot.testcode.data.dto,ProductDto,49,88,11,7,0,8,10,12,1,12
+testCode,com.springboot.testcode.data.dao,ProductDAOImpl,69,6,4,0,20,3,6,1,4,1
+testCode,com.springboot.testcode.controller,GetController,18,11,0,0,6,3,3,2,3,2
+testCode,com.springboot.testcode.controller,ProductController,22,26,0,0,4,7,2,3,2,3
